@@ -1,4 +1,4 @@
-Phonebook App with GUI created in Netbeans
+## _Phonebook App with GUI created in Netbeans_
 
 Phonebook app with graphical interface and functions for adding, removing, sorting or searching for a cerain contact.
 The app starts in a shareware mode and after registering all functionalities can be accessed.
