@@ -9,4 +9,4 @@ In the shareware mode there are also some adds that are showing in the lower par
 The application has a thread that witll save the data every 5 minutes. The file where the data is saved will be the one chosen by the user when the application starts. If no file is chosen, the data will not be saved.
 
 
-![alt text](https://raw.githubusercontent.com/barcan1012/Phonebook/Capture4.PNG)
+![alt text](https://github.com/barcan1012/Phonebook/blob/master/Capture4.PNG)
